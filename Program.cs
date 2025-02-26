@@ -13,7 +13,8 @@ namespace Helloworld
           
 
             int x;
-            x = 3;
+            x = 6;
+         
         }
     }
 }
