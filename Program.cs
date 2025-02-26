@@ -4,9 +4,12 @@ namespace Helloworld
 {
     internal class Program
     {
+        private const string Message = "Hello,World!";
+
         static void Main(string[] args)
         {
-            Debug.WriteLine("Hello, World!");
+            Debug.WriteLine(Message);
+            Debug.WriteLine("Git test");
           
 
             int x;
